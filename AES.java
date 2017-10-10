@@ -14,9 +14,6 @@ public class AES {
     private static final String TAG = "AES Encryptor/Decryptor";
 
     public static final String INIT_VECTOR = "YOUR KEY";
-    public static String getKey(String sessionId){
-        return *****
-    }
 
     /**
      * encrypt method of AES by taking single string value
